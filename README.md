@@ -1,4 +1,4 @@
-# Drug-Prediction-Analysis
+# Temple Classification
 
 This is a repository for my Jupiter notebook for a Kaggle submission. The task requires me to build a classifier that would detect whether an image contain Wat Pra Kaew temple or Wat Pho temple.
 The training data is mined using Google and Bing image search API, then a model is trained and evaluated against test set.
